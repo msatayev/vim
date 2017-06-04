@@ -49,3 +49,5 @@ let NERDTreeIgnore=['\.DS_Store', '\~$', '\.swp']
 " toggle display of tree on leader+n
 nmap <leader>n :NERDTreeToggle<CR>
 nmap <leader>j :NERDTreeFind<CR>
+"turn on mouse support
+set mouse=a
